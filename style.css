@@ -1,8 +1,8 @@
-.p {
-font-family:"Times New Roman";
-color:aquamarine
+  .p {
+font-family: "Times New Roman";
+color:aquamarine;
 }
-.hello {
-font-family:"Courier New";
+  .hello {
+font-family: "Courier New";
 color:blue;
 }
